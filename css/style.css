@@ -593,7 +593,7 @@ background: linear-gradient(128deg, rgba(255,255,255,1) 0%, rgba(54,222,255,1) 5
         width: 100%;
     }
     .content1_img>img{
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
     }
 }
