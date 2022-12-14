@@ -583,6 +583,9 @@ background: linear-gradient(128deg, rgba(255,255,255,1) 0%, rgba(54,222,255,1) 5
     .footer{
         width: 400px;
     }
+    .list{
+        width: 250px;
+    }
     .list>ul>li>a{
         font-size: 15px;
     }
