@@ -104,6 +104,7 @@
 .items{
     background-color: #f5f5f5;
     border-radius: 12px;
+    padding: 8px;
 }
 .items>i{
     color: #5b3cf1;
