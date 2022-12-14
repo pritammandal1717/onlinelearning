@@ -77,6 +77,10 @@
 .content1_cont>a:hover{
     background-color: #9d8bf5;
     color: black;
+}   
+.content1_img>img{
+        width: 500px;
+        height: 500px;
 }
 .coursecatg>p{
     text-align: center;
