@@ -552,9 +552,15 @@ background: linear-gradient(128deg, rgba(255,255,255,1) 0%, rgba(54,222,255,1) 5
         margin-left: 20%;
     }
     .header>ul>li{
-        display: inline;
-        padding-top: 10px;
-        text-decoration: none;
-        padding-right: 10px;
-    } 
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .header>ul>li>a{
+        margin-top: 20px;
+
+    }
+    .content3{
+        grid-template-columns: auto;
+        margin: 0px;
+    }
 }
