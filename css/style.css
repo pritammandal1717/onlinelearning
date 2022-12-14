@@ -520,6 +520,7 @@ background: linear-gradient(128deg, rgba(255,255,255,1) 0%, rgba(54,222,255,1) 5
     .content2{
         grid-template-rows: repeat(4,auto);
         grid-template-columns: repeat(2,auto);
+        margin: 7px;
     }
     .about{
         grid-template-columns: auto;
