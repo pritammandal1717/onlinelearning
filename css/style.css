@@ -564,7 +564,7 @@ background: linear-gradient(128deg, rgba(255,255,255,1) 0%, rgba(54,222,255,1) 5
         margin: 0px;
     }
     .item{
-        margin: 5px;
+        margin: 10px;
     } 
     .content1{
         grid-template-columns: auto;
@@ -588,5 +588,8 @@ background: linear-gradient(128deg, rgba(255,255,255,1) 0%, rgba(54,222,255,1) 5
     }
     .list>ul>li>a{
         font-size: 15px;
+    }
+    .navbar{
+        width: 200px;
     }
 }
